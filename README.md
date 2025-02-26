@@ -1,3 +1,6 @@
+# Developer
+princecoder000@gmail.com
+
 # Download Copyfish
 
 Copyfish runs in Chrome, Edge and Firefox:
